@@ -1,7 +1,6 @@
 # MAKEPATH 
 #### (Reach your destination Faster!)
-This is ADS mini-project based on Graph Data Structure, implementation of Dijkstra's Algorithm. 
-It uses vis.js to show the output graph that gives you the fastest path possible.
+This is a Data Structure mini-project which is based on Dijkstra's Algorithm that generates a random path (graph) and applies the algorithm to output the fastest route (uses vis.js to output the route)
 
 ## Graph Data Structure
 A Graph is a non-linear data structure consisting of nodes and edges. 
